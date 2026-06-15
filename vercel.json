@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/success", "destination": "/success.html" }
+  ]
+}
